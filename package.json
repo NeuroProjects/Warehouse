@@ -4,7 +4,7 @@
   "repository": "reactjs/react-router-redux",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "bootstrap": "^3.3.7",
     "classnames": "^2.2.5",
     "crypto": "0.0.3",
